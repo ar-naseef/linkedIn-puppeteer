@@ -1,1 +1,3 @@
-/node_modules
+node_modules
+scraper1-data/*
+scraper2-data/*
